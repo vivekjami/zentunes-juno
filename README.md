@@ -19,5 +19,6 @@ npm run start
 ```
 ## Hosted in (live demo)
 https://gryxe-7yaaa-aaaal-adsnq-cai.icp0.io/
+-once it opens just click in the background to play the lofi
 ### For any extra details
 visit juno's [documentation](https://juno.build/docs/intro).  
